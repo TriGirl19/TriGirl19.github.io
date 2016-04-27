@@ -1,0 +1,108 @@
+body{
+    width: 960px;
+    text-align: center;
+    background-color: #e7f5e6;
+    margin: auto;
+}
+
+.nav{
+    width: 960px;
+    background-color: #e7f5e6S;
+/* background-color to be green*/  
+    /*font-size: 50px*/
+}
+
+
+h1{
+    text-align: center;
+    font-weight: 200;
+    font-family: Bree Serif;
+    /*color needs to match title*/
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #f7a219;
+}
+
+.home{
+    background-color: #87f5b5;
+    width: 25%;
+    float:left;
+    text-align: center;
+    font-weight: bold;
+    /*make the link have no underline*/
+    font-size: 18px;
+}
+
+.behavior{
+    background-color: #87f5b5;
+    width: 25%;
+    float:left;
+    text-align: center;
+    /*margin:0px;*/
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.feed{
+    background-color: #87f5b5;
+    width: 25%;
+    float:left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.exercise{
+    background-color: #87f5b5;
+    width: 25%;
+    float:left;
+    text-align: center;
+    margin:0px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.leftbox{
+    background-color: #e7f5e6S;
+    width: 40%;
+    float: left;
+    margin-top: 10px
+}
+
+#pixcaption{
+    text-align: left;
+}
+
+.rightbox{
+    background-color: #e7f5e6S;
+    width:59.4%;
+    float: right;
+    margin-top: 10px; 
+}
+
+.lineone{
+    margin-top: 50px;
+    text-align: left;
+}
+
+.lineonefeed{
+    text-align: left;
+    margin-top: 30;
+}
+
+.linetwo{
+    text-align: left;
+    margin-top: 30px;
+}
+
+.linethree{
+    text-align: left;
+    margin-top: 30px;
+}
+
+
